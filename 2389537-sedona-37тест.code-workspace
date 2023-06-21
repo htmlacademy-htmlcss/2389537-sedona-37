@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../../../OneDrive/Документы/Учеба/personal_page"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "personal_page"
+	}
+}
